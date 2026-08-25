@@ -3,7 +3,29 @@
 Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.com/practice).
 
 <!-- xomdata:stats:start -->
-_Not synced yet — connect this repo at [xomdata.com/settings](https://xomdata.com/settings) and hit **Sync**._
+
+**59** problems solved on [Xom Data](https://xomdata.com/practice).
+
+| Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
+|---|:---:|:---:|:---:|:---:|:---:|
+| Python | 10 | 0 | 0 | 0 | 10 |
+| SQL | 30 | 19 | 0 | 0 | 49 |
+
+**Recently solved**
+
+- [medium-recency-006](https://xomdata.com/practice/medium-recency-006) · Medium · 2026-08-25
+- [medium-frequency-005](https://xomdata.com/practice/medium-frequency-005) · Medium · 2026-08-25
+- [medium-recency-005](https://xomdata.com/practice/medium-recency-005) · Medium · 2026-08-25
+- [medium-classify-002](https://xomdata.com/practice/medium-classify-002) · Medium · 2026-08-25
+- [medium-firstlast-003](https://xomdata.com/practice/medium-firstlast-003) · Medium · 2026-08-25
+- [medium-recency-004](https://xomdata.com/practice/medium-recency-004) · Medium · 2026-08-25
+- [medium-monetary-005](https://xomdata.com/practice/medium-monetary-005) · Medium · 2026-08-25
+- [medium-monetary-004](https://xomdata.com/practice/medium-monetary-004) · Medium · 2026-08-25
+- [medium-recency-003](https://xomdata.com/practice/medium-recency-003) · Medium · 2026-08-25
+- [medium-firstlast-001](https://xomdata.com/practice/medium-firstlast-001) · Medium · 2026-08-25
+
+_Synced 59 solutions · last update 2026-08-25_
+
 <!-- xomdata:stats:end -->
 
 ## About this repo
