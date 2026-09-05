@@ -61,5 +61,13 @@
   "practice/sql/medium/medium-cohort-003/solution.sql": "d1bc896de33d00f5bbfc39e16dc42e55f8ba9b1964c0f8122c9f3e8a404a3885",
   "practice/sql/medium/medium-churn-001/solution.sql": "b794326691c8a139906834a3327659ca391feed73bb3305bab4e316401122d3c",
   "practice/sql/medium/medium-repeat-001/solution.sql": "0c3bcd9338717178fc0412ae62a9a3fb706272001f79fbab88979cb45ffdef37",
-  "practice/sql/medium/medium-active-001/solution.sql": "c4bda96323f45fe18c4e4e5663cf9e7ee7911901282c823a2951e0ef96207c9d"
+  "practice/sql/medium/medium-active-001/solution.sql": "c4bda96323f45fe18c4e4e5663cf9e7ee7911901282c823a2951e0ef96207c9d",
+  "practice/sql/medium/medium-groupby-027/solution.sql": "fbf29674e53f5f690337f5c418f15a0fd40d57a90280c159699359077e829d6a",
+  "practice/sql/medium/medium-having-019/solution.sql": "5cc78570818a1f641ec26843246916d02806df417f2a3c4ae2648fd6afc50c79",
+  "practice/sql/medium/medium-case-124/solution.sql": "5fe14db30a4b1f2e34fecb9f95b78edcfb829003de49e7421fd5a3a54d015284",
+  "practice/sql/medium/medium-subquery-103/solution.sql": "dfedd0f4379e70f986581eb35fd79ca38ea7a5c4a5ab09223c0cb0ffb9ef1912",
+  "practice/sql/medium/medium-coalesce-040/solution.sql": "e6904c4e4645943d8bd396310bb58518e82c4cc20148c5247a70b496fdbbd4b5",
+  "practice/sql/medium/medium-datefunction-045/solution.sql": "1cbd2827206447cd9ee672ab90a45348b004bd3674f3d33accc6610cfc03e5b6",
+  "practice/sql/medium/medium-union-175/solution.sql": "d44671c886a93d344c49ea94d3d270dc3000ef000f47c6a265eb7bb3c2ecbf0b",
+  "practice/sql/medium/medium-agg-127/solution.sql": "8514f97ea719b484434f1c45ec4ca74fc1afe44f9c5383b55fac08432ba4c247"
 }
