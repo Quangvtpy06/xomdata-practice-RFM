@@ -69,5 +69,9 @@
   "practice/sql/medium/medium-coalesce-040/solution.sql": "e6904c4e4645943d8bd396310bb58518e82c4cc20148c5247a70b496fdbbd4b5",
   "practice/sql/medium/medium-datefunction-045/solution.sql": "1cbd2827206447cd9ee672ab90a45348b004bd3674f3d33accc6610cfc03e5b6",
   "practice/sql/medium/medium-union-175/solution.sql": "d44671c886a93d344c49ea94d3d270dc3000ef000f47c6a265eb7bb3c2ecbf0b",
-  "practice/sql/medium/medium-agg-127/solution.sql": "8514f97ea719b484434f1c45ec4ca74fc1afe44f9c5383b55fac08432ba4c247"
+  "practice/sql/medium/medium-agg-127/solution.sql": "8514f97ea719b484434f1c45ec4ca74fc1afe44f9c5383b55fac08432ba4c247",
+  "practice/sql/hard/hard-topn-001/solution.sql": "dfcac8b3a0870679519a511c1813d5c95b1608be79cfbd8859158aae331043c4",
+  "practice/sql/hard/hard-frame-001/solution.sql": "b22a0110832df0b568419599031aa10e5d4e6d682d23560c2366623f6b684f1e",
+  "practice/sql/hard/hard-pivot-001/solution.sql": "18b498366395804939ca8c124f5b4038cbabaffaabc0f7d729aa74f04c218000",
+  "practice/sql/hard/hard-percentile-001/solution.sql": "5948bd8d95e186ce591ae19c5f66995897b24134778551707cbc735952bd10af"
 }
