@@ -73,5 +73,22 @@
   "practice/sql/hard/hard-topn-001/solution.sql": "dfcac8b3a0870679519a511c1813d5c95b1608be79cfbd8859158aae331043c4",
   "practice/sql/hard/hard-frame-001/solution.sql": "b22a0110832df0b568419599031aa10e5d4e6d682d23560c2366623f6b684f1e",
   "practice/sql/hard/hard-pivot-001/solution.sql": "18b498366395804939ca8c124f5b4038cbabaffaabc0f7d729aa74f04c218000",
-  "practice/sql/hard/hard-percentile-001/solution.sql": "5948bd8d95e186ce591ae19c5f66995897b24134778551707cbc735952bd10af"
+  "practice/sql/hard/hard-percentile-001/solution.sql": "5948bd8d95e186ce591ae19c5f66995897b24134778551707cbc735952bd10af",
+  "practice/sql/easy/medium-monetary-001/solution.sql": "02f14699735aa38a29ba31c10022c798a5f821890d4f2e420eaba8ad3ea64f4a",
+  "practice/sql/easy/medium-monetary-002/solution.sql": "a0bbf8a1cbeef024cf0e321407a184c4379961d0ecc6553c41bf39655cb41d39",
+  "practice/sql/easy/medium-firstlast-001/solution.sql": "e2407257b76c5e265b1ee916cdee6bf1b40570af4001a0e4b62acbfc68861681",
+  "practice/sql/hard/medium-classify-002/solution.sql": "0e7d82a3d38482900494e8fd2befb197efda006b52afa648a8a6cd1eb04c81ae",
+  "practice/sql/easy/medium-cohort-003/solution.sql": "d1bc896de33d00f5bbfc39e16dc42e55f8ba9b1964c0f8122c9f3e8a404a3885",
+  "practice/sql/easy/medium-active-001/solution.sql": "c4bda96323f45fe18c4e4e5663cf9e7ee7911901282c823a2951e0ef96207c9d",
+  "practice/sql/hard/hard-recursive-001/solution.sql": "e08e72be961bb01cd8975c51fe3b6c2a99b3e2b742fdb1503e39f89a9d71a089",
+  "practice/sql/medium/medium-repeat-002/solution.sql": "12e6a4d75e2ac6fe606722543d8b9c186b348b51e0ccf9bf27709e271f723e68",
+  "practice/sql/medium/medium-cohort-004/solution.sql": "38b831baf9c89087ba7827068c874779be565fc5bb4f704110f01a77d0fb5b29",
+  "practice/sql/medium/medium-gap-001/solution.sql": "2c1814fa2db658640b23064a97ecd7521046c918b3a5d6de4bb91caa24eb6adf",
+  "practice/sql/easy/medium-churn-002/solution.sql": "39fc4b8dd00ce6e41b55a94d0c1ac9f5e5bd312625e4e0355e448fee6f007b61",
+  "practice/sql/medium/medium-cohort-005/solution.sql": "e05646518bb2fae7c841cda7d200a864496e1f5b67748458754d08277502e73f",
+  "practice/sql/easy/medium-active-002/solution.sql": "8ad8e3b0e85fc42c03a02fb71e1f62ffdf3543298099a8e5a62742e6319d9ee7",
+  "practice/sql/medium/medium-churn-003/solution.sql": "8322dad3e166ca951204434df00596aac32dc5c0717f43ac64aee3c41bb6316b",
+  "practice/sql/medium/medium-cohort-006/solution.sql": "54dc980bcee63bc14cd25ee1dce7311381a4f14712d1935673660f49fcfd652e",
+  "practice/sql/medium/medium-churn-004/solution.sql": "ba2ad580775bef3b925de4c723f593cf9bd8382cff0c2469f2752e13f80ef0d6",
+  "practice/sql/medium/medium-active-003/solution.sql": "16a59241c382633953166403802d739b9787882941cfb3f59c6381138ec07e14"
 }
